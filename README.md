@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋
+<img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="400" height="200"/>
 
 <!--
 **RoxanaGarrido/RoxanaGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
